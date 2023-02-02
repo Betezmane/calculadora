@@ -1,4 +1,4 @@
-///CRIAR UMA CALCULADORA EM JS
+//CRIAR UMA CALCULADORA EM JS
 
 /*
 1. Efetuar calculos básicos de operadores
@@ -9,11 +9,11 @@
 3. Fatorial
 */
 
-///APRIMORAR CALCULADORA EM JS
+//APRIMORAR CALCULADORA EM JS
 
 /*
 1. Teorema de pitágoras
 2. Bhaskara
 */
 
-///INTERAGIR COM HTML
+//INTERAGIR COM HTML
